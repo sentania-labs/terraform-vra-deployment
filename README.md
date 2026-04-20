@@ -1,3 +1,7 @@
+# terraform-vra-deployment
+
+Terraform module — creates and manages an Aria Automation / vRA deployment from either a blueprint or a catalog item. Replaces the deprecated `terraform-vra-vmapps-consume-blueprint` and `terraform-vra-vmapps-consume-catalogitem` modules.
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
