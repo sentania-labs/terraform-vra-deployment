@@ -46,5 +46,5 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_deployment_info"></a> [deployment\_info](#output\_deployment\_info) | n/a |
+| <a name="output_deployment_info"></a> [deployment\_info](#output\_deployment\_info) | The deployment ID and name |
 <!-- END_TF_DOCS -->
